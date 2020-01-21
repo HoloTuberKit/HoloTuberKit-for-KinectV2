@@ -4,10 +4,10 @@ This is a simple volumetric video capture &amp; AR visualization kit. Real-time 
 [![](https://img.youtube.com/vi/IeaHt6bBw1o/0.jpg)](https://www.youtube.com/watch?v=IeaHt6bBw1o)
 <br><br>
 If you'd like to try HoloTuber Kit with other version of Kinect, please see following repositories.<br>
-For Kinect Azure Kinect: <br>
+<b>For Kinect Azure Kinect: </b><br>
 https://github.com/TakashiYoshinaga/HoloTuberKit-for-AzureKinect
 <br>
-For Kinect V1: <br>
+<b>For Kinect V1: </b><br>
 https://github.com/TakashiYoshinaga/HoloTuberKit-for-KinectV1
 <br><br>
 
