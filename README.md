@@ -28,7 +28,7 @@ To broadcast hologram, Kinect V2 SDK, OBS Studio and your own YouTube account ar
 ## Sending Hologram (PC -> YouTube)
 0) Install Kinect v2 SDK into your PC.<br>
 1) Set display scale to 100% in display setting of Windows.<br>
-2) Download and unzip  <b>AzureKinectCapture.zip</b> <br>
+2) Download and unzip  <b>KinectV2Capture.zip</b> <br>
 3) Connect a Azure Kinect with a PC.<br>
 4) Launch <b>KinectCapture4PC.exe</b>.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/01.jpg" alt="" width="400"><br>
